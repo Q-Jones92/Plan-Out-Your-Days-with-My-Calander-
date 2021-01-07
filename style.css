@@ -4,6 +4,10 @@ body {
     line-height: 1;
   }
   
+  {
+    box-sizing: border-box;
+  }
+  
   textarea{
     background: transparent;
     border: none;
@@ -69,4 +73,5 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
+  
   
